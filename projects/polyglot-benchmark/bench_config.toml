@@ -1,0 +1,28 @@
+# Configuration for the polyglot benchmark
+
+[exercism]
+active = true
+test_start_index = 0
+test_end_index = 50
+train_start_index = 0
+train_end_index = 0
+
+[python]
+active = true
+difficulty = ["easy", "medium", "hard"]
+topics = ["strings", "conditionals", "functions", "arrays", "loops"]
+
+[javascript]
+active = true
+difficulty = ["easy", "medium", "hard"]
+topics = ["conditionals", "boolean-logic", "math", "functions", "arrays"]
+
+[rust]
+active = true
+difficulty = ["easy", "medium", "hard"]
+topics = ["datetime", "arithmetic", "structs", "functions", "error-handling"]
+
+[general]
+timeout_seconds = 30
+max_exercises_per_language = 20
+enable_parallel_execution = true

@@ -1,0 +1,10 @@
+{
+  "slug": "leap",
+  "title": "Leap Year",
+  "description": "Given a year, report whether it is a leap year.",
+  "difficulty": "easy",
+  "status": "available",
+  "topics": ["conditionals", "boolean-logic", "math"],
+  "prerequisites": [],
+  "uuid": "leap-javascript-001"
+}

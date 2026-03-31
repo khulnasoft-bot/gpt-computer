@@ -1,0 +1,66 @@
+{
+  "timestamp": 1774983698.1851149,
+  "summary": {
+    "total_exercises": 2,
+    "successful_exercises": 2,
+    "overall_success_rate": 1.0,
+    "total_tests": 7,
+    "passed_tests": 7,
+    "overall_test_success_rate": 1.0,
+    "language_stats": {
+      "python": {
+        "total": 1,
+        "successful": 1,
+        "avg_time": 1.237372875213623,
+        "total_tests": 3,
+        "passed_tests": 3,
+        "success_rate": 1.0,
+        "test_success_rate": 1.0
+      },
+      "javascript": {
+        "total": 1,
+        "successful": 1,
+        "avg_time": 1.0361778736114502,
+        "total_tests": 4,
+        "passed_tests": 4,
+        "success_rate": 1.0,
+        "test_success_rate": 1.0
+      }
+    }
+  },
+  "results": [
+    {
+      "exercise_slug": "two-fer",
+      "language": "python",
+      "execution_result": "success",
+      "execution_time": 1.237372875213623,
+      "output": "[true, true, true]\n",
+      "error": null,
+      "test_results": [
+        true,
+        true,
+        true
+      ],
+      "tests_passed": 3,
+      "total_tests": 3,
+      "success_rate": 1.0
+    },
+    {
+      "exercise_slug": "leap",
+      "language": "javascript",
+      "execution_result": "success",
+      "execution_time": 1.0361778736114502,
+      "output": "[true,true,true,true]\n",
+      "error": null,
+      "test_results": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "tests_passed": 4,
+      "total_tests": 4,
+      "success_rate": 1.0
+    }
+  ]
+}

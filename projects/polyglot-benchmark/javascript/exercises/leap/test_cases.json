@@ -1,0 +1,22 @@
+[
+  {
+    "input": [1996],
+    "expected": true,
+    "description": "Year divisible by 4 is a leap year"
+  },
+  {
+    "input": [1997],
+    "expected": false,
+    "description": "Year not divisible by 4 is not a leap year"
+  },
+  {
+    "input": [1900],
+    "expected": false,
+    "description": "Year divisible by 100 but not 400 is not a leap year"
+  },
+  {
+    "input": [2000],
+    "expected": true,
+    "description": "Year divisible by 400 is a leap year"
+  }
+]

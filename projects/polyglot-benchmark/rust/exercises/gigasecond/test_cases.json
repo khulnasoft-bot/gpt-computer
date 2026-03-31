@@ -1,0 +1,17 @@
+[
+  {
+    "input": ["2011-04-25T00:00:00Z"],
+    "expected": "2043-01-01T01:46:40Z",
+    "description": "Date with time 00:00:00"
+  },
+  {
+    "input": ["1977-06-13T00:00:00Z"],
+    "expected": "2009-02-19T01:46:40Z",
+    "description": "Another date with time 00:00:00"
+  },
+  {
+    "input": ["1959-07-19T00:00:00Z"],
+    "expected": "1991-03-27T01:46:40Z",
+    "description": "Date with time 00:00:00"
+  }
+]

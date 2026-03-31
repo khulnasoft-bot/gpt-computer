@@ -1,0 +1,10 @@
+{
+  "slug": "two-fer",
+  "title": "Two Fer",
+  "description": "Given a name, return a string with the greeting 'One for X, one for me.'",
+  "difficulty": "easy",
+  "status": "available",
+  "topics": ["strings", "conditionals", "functions"],
+  "prerequisites": [],
+  "uuid": "two-fer-python-001"
+}

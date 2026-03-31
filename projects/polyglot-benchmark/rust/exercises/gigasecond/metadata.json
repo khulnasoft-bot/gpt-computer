@@ -1,0 +1,10 @@
+{
+  "slug": "gigasecond",
+  "title": "Gigasecond",
+  "description": "Calculate the date one gigasecond (10^9 seconds) from a given date.",
+  "difficulty": "medium",
+  "status": "available",
+  "topics": ["datetime", "arithmetic", "structs"],
+  "prerequisites": ["basic-rust-syntax"],
+  "uuid": "gigasecond-rust-001"
+}

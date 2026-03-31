@@ -1,0 +1,17 @@
+[
+  {
+    "input": ["Alice"],
+    "expected": "One for Alice, one for me.",
+    "description": "Test with name Alice"
+  },
+  {
+    "input": ["Bob"],
+    "expected": "One for Bob, one for me.",
+    "description": "Test with name Bob"
+  },
+  {
+    "input": [],
+    "expected": "One for you, one for me.",
+    "description": "Test with default name"
+  }
+]
