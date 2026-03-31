@@ -42,7 +42,7 @@ dependencies = [
     "tree-sitter-ruby>=0.21.0",
     "tree-sitter-php>=0.21.0",
     "tree-sitter-kotlin>=0.21.0",
-    "tree-sitter-markdown>=0.21.0",
+    "tree-sitter-markdown>=0.5.1",
 ]
 
 [build-system]
